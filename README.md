@@ -70,6 +70,8 @@ Reschedule or cancel existing appointments
 Doctors/Admins can:
 
 View and manage all appointments
+![Screenshot (939)](https://github.com/user-attachments/assets/ac10d3a3-b673-4ba3-82d3-a00dc856881b)
+
 
 Change appointment statuses
 
