@@ -71,6 +71,10 @@ Doctors/Admins can:
 
 View and manage all appointments
 ![Screenshot (939)](https://github.com/user-attachments/assets/ac10d3a3-b673-4ba3-82d3-a00dc856881b)
+![Screenshot (940)](https://github.com/user-attachments/assets/5aedc94c-5897-444d-ab22-cd624ef06bf7)
+![Screenshot (941)](https://github.com/user-attachments/assets/b042156a-e921-4e25-a4c1-9e09c71b35d1)
+
+
 
 
 Change appointment statuses
